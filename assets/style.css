@@ -39,7 +39,7 @@ details[open] summary{border-bottom:1px solid #eee}details .in{padding:.4rem 1.2
 details ul{padding-left:1.2rem;margin:.4rem 0}
 .check{list-style:none;padding:0;columns:2 260px}.check li{break-inside:avoid;padding:.2rem 0 .2rem 1.6rem;position:relative}
 .check li::before{content:"✔";position:absolute;left:0;color:var(--g)}
-.free{background:var(--g);color:var(--b);text-align:center}
+.free{background:#ecd393;color:var(--b);text-align:center}
 .free .kicker,.free h2,.free .big{color:var(--b)}
 section.dark{background:var(--b);color:#f6ecd9}section.dark h2{color:var(--g)}section.dark a{color:var(--g)}
 .free .big{font-family:Cinzel,serif;font-size:clamp(1.1rem,3vw,1.5rem);margin:1.5rem 0}
