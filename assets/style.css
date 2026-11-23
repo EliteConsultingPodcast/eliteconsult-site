@@ -39,9 +39,8 @@ details[open] summary{border-bottom:1px solid #eee}details .in{padding:.4rem 1.2
 details ul{padding-left:1.2rem;margin:.4rem 0}
 .check{list-style:none;padding:0;columns:2 260px}.check li{break-inside:avoid;padding:.2rem 0 .2rem 1.6rem;position:relative}
 .check li::before{content:"✔";position:absolute;left:0;color:var(--g)}
-.free{background:var(--b);color:#f6ecd9;text-align:center}.free h2{color:var(--g)}
-section.dark{background:var(--b);color:#f6ecd9}section.dark h2{color:var(--g)}section.dark a{color:var(--g)}
-.free .big{font-family:Cinzel,serif;font-size:clamp(1.1rem,3vw,1.5rem);color:var(--g);margin:1.5rem 0}
+.free{text-align:center}.free .btn-g{background:var(--b);color:var(--g)}
+.free .big{font-family:Cinzel,serif;font-size:clamp(1.1rem,3vw,1.5rem);color:var(--b);margin:1.5rem 0}
 .pod{display:grid;gap:2rem;grid-template-columns:1fr;align-items:center}@media(min-width:760px){.pod{grid-template-columns:200px 1fr}}
 .pod img{width:200px;max-width:100%;border-radius:12px;border:3px solid var(--g)}
 .contact{text-align:center}.contact .btn-g{background:var(--b);color:var(--g)}
